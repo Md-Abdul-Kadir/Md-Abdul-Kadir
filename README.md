@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/Md-Abdul-Kadir"><img height="250" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.hutomosungkar.com%2Fget-ideas-how-to-change-cover-photo-in-linkedin-background%2F&psig=AOvVaw3QX0kDRmo483JF-kE-DqcX&ust=1642255770556000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDwttW1sfUCFQAAAAAdAAAAABA7"></a>
+<a href="https://github.com/Md-Abdul-Kadir"><img height="250" width="500" src="https://www.mindinventory.com/blog/wp-content/uploads/2019/10/Offshore-app-developer-1024x512.png"></a>
 <h1 style="font-weight:bold;font-size:75px">Md.Abdul Kadir Akash</h1>
 <h3 style="font-weight:bold;font-size:75px">Full Stack Developer <h3>
 </div>
