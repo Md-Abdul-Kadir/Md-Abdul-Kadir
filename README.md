@@ -16,7 +16,6 @@
 
 <!-- yellow f6c819 , navy-blue 21223e white fffff -->
 
-![badge-Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![badge-java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![badge-javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![badge-react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,8 +28,8 @@
 <p align="center" >
   <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Abdul-Kadir&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
 
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Rabi03&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Md-Abdul-Kadir&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
 </p>
 <p align="center" >
-  <img height="200" src="https://github-profile-trophy.vercel.app/?username=Rabi03&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
+  <img height="200" src="https://github-profile-trophy.vercel.app/?username=Md-Abdul-Kadir&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
 </p>
