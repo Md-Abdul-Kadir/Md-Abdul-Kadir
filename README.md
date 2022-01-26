@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/Md-Abdul-Kadir"><img height="250" width="500" src="https://www.mindinventory.com/blog/wp-content/uploads/2019/10/Offshore-app-developer-1024x512.png"></a>
+<a href="https://github.com/Md-Abdul-Kadir"><img height="400" width="800" src="https://www.mindinventory.com/blog/wp-content/uploads/2019/10/Offshore-app-developer-1024x512.png"></a>
 <h1 style="font-weight:bold;font-size:75px">Md.Abdul Kadir Akash</h1>
 <h3 style="font-weight:bold;font-size:75px">Full Stack Developer <h3>
 </div>
